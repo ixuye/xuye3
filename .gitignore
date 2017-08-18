@@ -1,0 +1,7 @@
+#注释 忽略.idea的文件及目录 
+.idea
+
+#.iml忽略
+*.iml
+
+target
